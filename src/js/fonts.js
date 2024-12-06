@@ -1,4 +1,4 @@
-window.fonts = [
+export const fonts = [
     {
         name: "Adobe Jenson",
         file: "adobe-jenson",
@@ -120,3 +120,6 @@ window.fonts = [
         author: "Edward Benguiat"
     }
 ]
+
+export class index {
+}
